@@ -1,0 +1,5 @@
+{
+    "name": "modeline",
+    "main": "./lib/modeline",
+    "version": "0.0.1"
+}
